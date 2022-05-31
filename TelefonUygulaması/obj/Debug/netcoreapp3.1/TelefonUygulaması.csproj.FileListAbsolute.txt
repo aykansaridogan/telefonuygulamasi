@@ -1,0 +1,15 @@
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\bin\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.exe
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\bin\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.deps.json
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\bin\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.runtimeconfig.json
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\bin\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.runtimeconfig.dev.json
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\bin\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.dll
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\bin\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.pdb
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.Form1.resources
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.csproj.GenerateResource.cache
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.AssemblyInfoInputs.cache
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.AssemblyInfo.cs
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.csproj.CoreCompileInputs.cache
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.dll
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.pdb
+C:\Users\AYKAN\source\repos\TelefonUygulamasıDersteYapılan\TelefonUygulamasıDersteYapılan\obj\Debug\netcoreapp3.1\TelefonUygulamasıDersteYapılan.genruntimeconfig.cache
